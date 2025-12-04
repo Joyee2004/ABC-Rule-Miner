@@ -1,0 +1,68 @@
+,Conditions,Behavior,Confidence,Type
+0,Learning_Efficiency_Category=medium,Recommended,0.81375,NORMAL
+1,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=medium AND DayOfWeek=Monday AND TimeOfDay=Afternoon AND Course_ID=C002 AND Resource_Type=quiz,Recommended,1.0,NORMAL
+2,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=medium AND DayOfWeek=Wednesday AND Course_ID=C004 AND Resource_Type=quiz,Recommended,1.0,NORMAL
+3,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=medium AND DayOfWeek=Wednesday AND Course_ID=C001 AND TimeOfDay=Morning AND Resource_Type=video,Recommended,1.0,NORMAL
+4,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=medium AND DayOfWeek=Tuesday AND Course_ID=C004 AND TimeOfDay=Evening AND Resource_Type=document,Recommended,1.0,NORMAL
+5,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=medium AND DayOfWeek=Tuesday AND Course_ID=C004 AND TimeOfDay=Evening AND Resource_Type=video AND Device_Type=tablet,Recommended,1.0,NORMAL
+6,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=medium AND DayOfWeek=Tuesday AND Course_ID=C001 AND TimeOfDay=Morning,Recommended,1.0,NORMAL
+7,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=medium AND DayOfWeek=Tuesday AND Course_ID=C005 AND Device_Type=desktop,Recommended,0.6666666666666666,NORMAL
+8,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=medium AND DayOfWeek=Tuesday AND Course_ID=C005 AND Device_Type=tablet AND Resource_Type=document,Recommended,1.0,NORMAL
+9,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=medium AND DayOfWeek=Sunday AND Course_ID=C004 AND Device_Type=tablet AND Resource_Type=quiz AND TimeOfDay=Afternoon,Recommended,1.0,NORMAL
+10,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=medium AND DayOfWeek=Sunday AND Course_ID=C004 AND Device_Type=tablet AND Resource_Type=document,Recommended,1.0,NORMAL
+11,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=medium AND DayOfWeek=Sunday AND Course_ID=C003 AND Device_Type=tablet AND TimeOfDay=Afternoon AND Resource_Type=video,Recommended,1.0,NORMAL
+12,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=medium AND DayOfWeek=Sunday AND Course_ID=C002 AND TimeOfDay=Morning,Recommended,1.0,NORMAL
+13,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=medium AND DayOfWeek=Sunday AND Course_ID=C002 AND TimeOfDay=Afternoon,Recommended,1.0,NORMAL
+14,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=medium AND DayOfWeek=Sunday AND Course_ID=C002 AND TimeOfDay=Evening,Recommended,0.6666666666666666,NORMAL
+15,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=medium AND DayOfWeek=Sunday AND Course_ID=C005 AND Device_Type=mobile AND Resource_Type=quiz,Recommended,1.0,NORMAL
+16,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=medium AND DayOfWeek=Friday AND Course_ID=C003 AND Device_Type=tablet AND Resource_Type=document AND TimeOfDay=Afternoon,Recommended,1.0,NORMAL
+17,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=medium AND DayOfWeek=Friday AND Course_ID=C005 AND TimeOfDay=Morning,Recommended,1.0,NORMAL
+18,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=medium AND DayOfWeek=Thursday AND TimeOfDay=Morning AND Resource_Type=document AND Course_ID=C001,Recommended,1.0,NORMAL
+19,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=medium AND DayOfWeek=Thursday AND TimeOfDay=Morning AND Resource_Type=document AND Course_ID=C004 AND Device_Type=mobile,Recommended,1.0,NORMAL
+20,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=medium AND DayOfWeek=Thursday AND TimeOfDay=Afternoon AND Course_ID=C003 AND Resource_Type=video,Recommended,1.0,NORMAL
+21,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=medium AND DayOfWeek=Thursday AND TimeOfDay=Evening AND Resource_Type=document AND Course_ID=C003,Recommended,1.0,NORMAL
+22,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=medium AND DayOfWeek=Saturday AND Course_ID=C004 AND TimeOfDay=Night AND Resource_Type=video,Recommended,1.0,NORMAL
+23,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=medium AND DayOfWeek=Saturday AND Course_ID=C001 AND Resource_Type=quiz,Recommended,0.75,NORMAL
+24,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=medium AND DayOfWeek=Saturday AND Course_ID=C001 AND Resource_Type=video,Recommended,0.6666666666666666,NORMAL
+25,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=medium AND DayOfWeek=Saturday AND Course_ID=C005 AND Resource_Type=quiz AND Device_Type=tablet AND TimeOfDay=Morning,Recommended,1.0,NORMAL
+26,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=high AND DayOfWeek=Monday AND TimeOfDay=Evening AND Device_Type=mobile AND Course_ID=C001,Recommended,1.0,NORMAL
+27,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=high AND DayOfWeek=Monday AND TimeOfDay=Evening AND Device_Type=mobile AND Course_ID=C005,Recommended,1.0,NORMAL
+28,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=high AND DayOfWeek=Wednesday AND Course_ID=C004 AND TimeOfDay=Afternoon AND Device_Type=desktop,Recommended,1.0,NORMAL
+29,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=high AND DayOfWeek=Wednesday AND Course_ID=C004 AND TimeOfDay=Morning AND Device_Type=mobile,Recommended,1.0,NORMAL
+30,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=high AND DayOfWeek=Wednesday AND Course_ID=C003 AND TimeOfDay=Evening AND Resource_Type=document,Recommended,1.0,NORMAL
+31,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=high AND DayOfWeek=Tuesday AND Course_ID=C003 AND Device_Type=tablet AND Resource_Type=quiz AND TimeOfDay=Evening,Recommended,1.0,NORMAL
+32,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=high AND DayOfWeek=Sunday AND Resource_Type=video AND Course_ID=C004 AND TimeOfDay=Evening,Recommended,1.0,NORMAL
+33,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=high AND DayOfWeek=Sunday AND Resource_Type=video AND Course_ID=C001 AND TimeOfDay=Night,Recommended,1.0,NORMAL
+34,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=high AND DayOfWeek=Sunday AND Resource_Type=video AND Course_ID=C005 AND Device_Type=mobile,Recommended,1.0,NORMAL
+35,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=high AND DayOfWeek=Thursday AND Course_ID=C002 AND Resource_Type=document AND TimeOfDay=Evening,Recommended,1.0,NORMAL
+36,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=high AND DayOfWeek=Saturday AND Course_ID=C004 AND TimeOfDay=Evening AND Resource_Type=video,Recommended,1.0,NORMAL
+37,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=high AND DayOfWeek=Saturday AND Course_ID=C003 AND TimeOfDay=Morning,Recommended,0.6666666666666666,NORMAL
+38,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=high AND DayOfWeek=Saturday AND Course_ID=C003 AND TimeOfDay=Afternoon AND Device_Type=mobile,Recommended,1.0,NORMAL
+39,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=high AND DayOfWeek=Saturday AND Course_ID=C001 AND Resource_Type=quiz AND Device_Type=desktop,Recommended,1.0,NORMAL
+40,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=low AND DayOfWeek=Monday AND TimeOfDay=Evening AND Course_ID=C003 AND Resource_Type=document,Recommended,1.0,NORMAL
+41,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=low AND DayOfWeek=Monday AND TimeOfDay=Evening AND Course_ID=C001,Recommended,1.0,NORMAL
+42,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=low AND DayOfWeek=Monday AND TimeOfDay=Evening AND Course_ID=C002,Recommended,1.0,NORMAL
+43,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=low AND DayOfWeek=Monday AND TimeOfDay=Night AND Device_Type=desktop AND Resource_Type=quiz,Recommended,1.0,NORMAL
+44,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=low AND DayOfWeek=Wednesday AND Resource_Type=quiz AND Device_Type=desktop AND Course_ID=C001,Recommended,1.0,NORMAL
+45,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=low AND DayOfWeek=Wednesday AND Resource_Type=quiz AND Device_Type=mobile AND Course_ID=C002 AND TimeOfDay=Night,Recommended,1.0,NORMAL
+46,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=low AND DayOfWeek=Wednesday AND Resource_Type=video AND Course_ID=C003,Recommended,0.75,NORMAL
+47,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=low AND DayOfWeek=Wednesday AND Resource_Type=video AND Course_ID=C003 AND Device_Type=desktop AND TimeOfDay=Night,Recommended,1.0,NORMAL
+48,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=low AND DayOfWeek=Wednesday AND Resource_Type=video AND Course_ID=C001 AND Device_Type=desktop,Recommended,1.0,NORMAL
+49,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=low AND DayOfWeek=Wednesday AND Resource_Type=video AND Course_ID=C005 AND Device_Type=tablet,Recommended,1.0,NORMAL
+50,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=low AND DayOfWeek=Tuesday AND Device_Type=desktop AND Course_ID=C003 AND Resource_Type=document,Recommended,1.0,NORMAL
+51,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=low AND DayOfWeek=Tuesday AND Device_Type=mobile AND Course_ID=C001 AND Resource_Type=quiz AND TimeOfDay=Afternoon,Recommended,1.0,NORMAL
+52,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=low AND DayOfWeek=Sunday AND TimeOfDay=Afternoon AND Resource_Type=quiz AND Device_Type=tablet,Recommended,1.0,NORMAL
+53,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=low AND DayOfWeek=Sunday AND TimeOfDay=Evening AND Course_ID=C003,Recommended,1.0,NORMAL
+54,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=low AND DayOfWeek=Sunday AND TimeOfDay=Evening AND Course_ID=C001,Recommended,0.6666666666666666,NORMAL
+55,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=low AND DayOfWeek=Sunday AND TimeOfDay=Evening AND Course_ID=C005,Recommended,1.0,NORMAL
+56,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=low AND DayOfWeek=Friday AND TimeOfDay=Evening AND Resource_Type=quiz,Recommended,1.0,NORMAL
+57,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=low AND DayOfWeek=Friday AND TimeOfDay=Evening AND Resource_Type=video AND Device_Type=tablet,Recommended,1.0,NORMAL
+58,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=low AND DayOfWeek=Friday AND TimeOfDay=Night AND Resource_Type=document,Recommended,1.0,NORMAL
+59,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=low AND DayOfWeek=Friday AND TimeOfDay=Night AND Resource_Type=video,Recommended,0.6,NORMAL
+60,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=low AND DayOfWeek=Thursday AND Course_ID=C004 AND Resource_Type=quiz AND TimeOfDay=Afternoon,Recommended,1.0,NORMAL
+61,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=low AND DayOfWeek=Thursday AND Course_ID=C004 AND Resource_Type=document,Recommended,1.0,NORMAL
+62,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=low AND DayOfWeek=Thursday AND Course_ID=C003 AND TimeOfDay=Evening AND Resource_Type=document,Recommended,1.0,NORMAL
+63,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=low AND DayOfWeek=Thursday AND Course_ID=C001 AND Resource_Type=document AND Device_Type=mobile,Recommended,0.6666666666666666,NORMAL
+64,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=low AND DayOfWeek=Saturday AND TimeOfDay=Evening AND Course_ID=C003,Recommended,1.0,NORMAL
+65,Learning_Efficiency_Category=medium AND Interaction_Rate_Category=low AND DayOfWeek=Saturday AND TimeOfDay=Morning AND Device_Type=tablet AND Course_ID=C003,Recommended,1.0,NORMAL
+66,Learning_Efficiency_Category=low,Recommended,1.0,NORMAL
