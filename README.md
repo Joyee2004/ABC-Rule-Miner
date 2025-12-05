@@ -4,28 +4,27 @@ A Supervised Explainable Machine Learning Algorithm for Generating High-Precisio
 
 ## Overview
 
-ABC Rule Miner is a supervised rule-based learning algorithm designed to generate interpretable IF–THEN rules for predicting a target behavioral label.
-This algorithm was introduced in the paper : https://www.sciencedirect.com/science/article/pii/S1084804520302368
-Unlike Apriori (unsupervised), ABC Rule Miner uses a target column (e.g., Recommendation_Label) to grow branches in a tree-like structure and extract behavior-focused rules.
+- ABC Rule Miner is a supervised rule-based learning algorithm designed to generate interpretable IF–THEN rules for predicting a target behavioral label.
+- This algorithm was introduced in the paper : https://www.sciencedirect.com/science/article/pii/S1084804520302368
+- Unlike Apriori (unsupervised), ABC Rule Miner uses a target column (e.g., Recommendation_Label) to grow branches in a tree-like structure and extract behavior-focused rules.
 
 Major contributions of the paper :
-
-    1. Identify redundancy in associations while producing user behavioral rules based on multi-dimensional contexts.
-    2. A rule based ML method (Association Generation Tree) to discover non redundant behavioral associations.
-    3. Conducting range of experiments on real smart phone dataset, comparing results of ABC rule miner approach with traditional methods ( Apriori).
+- Identify redundancy in associations while producing user behavioral rules based on multi-dimensional contexts.
+- A rule based ML method (Association Generation Tree) to discover non redundant behavioral associations.
+- Conducting range of experiments on real smart phone dataset, comparing results of ABC rule miner approach with traditional methods ( Apriori).
 
 ## Objectives
-    1. Understand the working of ABC Rule Miner.
-    2. Implement ABC Rule Miner and Apriori on an E-learning dataset and understand and compare the results.
+- Understand the working of ABC Rule Miner.
+- Implement ABC Rule Miner and Apriori on an E-learning dataset and understand and compare the results.
 
 This project implements:
     
-    1. ABC rule generation
-    2. Rule pruning
-    3. Confidence filtering
-    4. Coverage evaluation
-    5. Benchmarking against Apriori
-    6. Visualizations (rule count vs. confidence threshold)
+- ABC rule generation
+- Rule pruning
+- Confidence filtering
+- Coverage evaluation
+- Benchmarking against Apriori
+- Visualizations (rule count vs. confidence threshold)
 
 ## Installation
 
@@ -37,13 +36,10 @@ Now in the experiments directory, run each file (.ipynb)/ code snippet.
 
 
 ## Dataset
-Contextual E-Learning Learner Interaction Dataset.
-
-It contains data from e-learning platforms, covering usage details.
-
-Dataset link : https://www.kaggle.com/datasets/zoya77/contextual-e-learning-learner-interaction-dataset
-
-
+- Contextual E-Learning Learner Interaction Dataset.
+- It contains data from e-learning platforms, covering usage details.
+- Dataset link : https://www.kaggle.com/datasets/zoya77/contextual-e-learning-learner-interaction-dataset
+- 
 <img width="1590" height="253" alt="Image" src="https://github.com/user-attachments/assets/16a41628-6d03-4301-909a-d640b57dcfd2" />
 
 <img width="1589" height="291" alt="Image" src="https://github.com/user-attachments/assets/7a39c426-6456-4d8b-a520-2640696729ad" />
